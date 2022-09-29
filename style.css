@@ -25,6 +25,7 @@ html {
 body {
   background: linear-gradient(228.24deg, #141519 0%, #141519 47.17%);
   min-height: 100vh;
+  max-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
