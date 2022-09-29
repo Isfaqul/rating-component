@@ -73,7 +73,7 @@ body {
 .container-ratings {
   display: flex;
   justify-content: space-between;
-  margin: 3.1em 0 2.5em 0;
+  margin: 1.2em 0 2.5em 0;
 }
 
 .rating-circle {
@@ -191,7 +191,7 @@ body {
     line-height: 155%;
   }
   .container-ratings {
-    margin-bottom: 3em;
+    margin: 1.2em 0 3em 0;
   }
   .btn-submit {
     font-size: 1.5rem;
