@@ -19,7 +19,6 @@ function selectRating(e) {
   selectedRatingVal = e.target.innerText;
   removeActiveClass();
   e.target.classList.add("active-rating");
-  console.log(selectedRatingVal);
 }
 
 function removeActiveClass() {
